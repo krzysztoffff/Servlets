@@ -7,5 +7,5 @@ libraries.
 </h3>
 
 
-<h3>Exchange money converter</h3>
-<h3>Binary to decimal converter</h3>
+<h3>Servlet_01 Exchange money converter</h3>
+<h3>Servlet_02 Binary to decimal converter</h3>
